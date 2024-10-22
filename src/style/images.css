@@ -1,0 +1,7 @@
+.imagesList{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 62%;
+    gap: 2vh;
+}

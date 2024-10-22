@@ -1,0 +1,20 @@
+li{
+    list-style: none;
+    float: left;
+    border: 1px solid;
+    min-width:6%;
+    padding: 4px;
+    text-align: center;
+    color: white;
+    background-color: #051c33;
+    font-family: "Josefin Sans", Helvetica, Arial, sans-serif;
+    border-radius: 5px;
+    margin-left: 1%;
+    margin-right: 1%;
+    cursor: pointer;
+}
+
+.headerContainer{
+    display: flex;
+    justify-content: center;
+}

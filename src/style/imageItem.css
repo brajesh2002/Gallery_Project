@@ -1,0 +1,12 @@
+.image{
+    overflow: hidden;
+}
+
+.imgdiv{
+    transition: transform 1.25s ease;
+    transform: scale(1.25);
+}
+
+.image:hover .imgdiv{
+    transform: scale(1.65);
+}

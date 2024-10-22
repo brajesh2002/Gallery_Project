@@ -2,7 +2,7 @@ import './App.css'
 import Header from './components/Header'
 import ImageContainer from './components/ImageContainer'
 import ImagesOnSearch from './components/ImagesOnSearch'
-import Navbar from './components/navbar'
+import Navbar from './components/Navbar'
 import SearchBar from './components/SearchBar'
 import {
   createBrowserRouter,

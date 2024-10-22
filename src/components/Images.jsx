@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import ImageItem from './imageItem';
+import ImageItem from './ImageItem';
 import '../style/images.css';
 import NotFound from './NotFound';
 
